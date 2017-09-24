@@ -8,3 +8,6 @@ twitter_username: memepowered
 github_username: iglosiggio
 
 theme: minima
+
+plugins:
+  - jekyll-feed
