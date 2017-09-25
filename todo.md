@@ -10,3 +10,4 @@ title: Ideas sin terminar (textos, proyectos, sarasa)
 * Revisitas a textos clásicos que adoro (en computación)
 * Música, y mi frustración como pianista
 * Grandes momentos en videojuegos (The begginers guide, Talos Principle, Warcraft 3)
+* De la sensación que las figuras públicas no son personas (hasta que las tenés enfrente)
