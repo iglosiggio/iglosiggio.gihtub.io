@@ -11,3 +11,4 @@ title: Ideas sin terminar (textos, proyectos, sarasa)
 * Música, y mi frustración como pianista
 * Grandes momentos en videojuegos (The begginers guide, Talos Principle, Warcraft 3)
 * De la sensación que las figuras públicas no son personas (hasta que las tenés enfrente)
+* De la única vez que odié de verdad y lo horrible que se sintió
